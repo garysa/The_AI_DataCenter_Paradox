@@ -5,6 +5,8 @@
 **Date:** February 2026
 **Research basis:** 20+ web sources, financial reports, academic papers, industry analyses
 
+📖 **[Read the full analysis on the Wiki](https://github.com/garysa/The_AI_DataCenter_Paradox/wiki)**
+
 ---
 
 ## The Central Question
